@@ -23,7 +23,7 @@
   "HidePopup": "Skrýt toto vyskakovací okno v budoucnu",
   "InitFailedRetry": "Fan control se nepodařilo inicializovat. Opakování pokusu...",
   "ManualPairingInstruction": "Níže vyberte snímač otáček, který reaguje na toto ovládání.",
-  "ManualPairingTip": "(Tip: Nastavte posuvník na 0 % a zjistěte, který ventilátor se zpomalí/zastaví.) ",
+  "ManualPairingTip": "(Tip: Nastavte posuvník na 0 % a zjistěte, který ventilátor se zpomalí/zastaví.)",
   "OtherInstance": "Jiná instance programu FanControl byla spuštěna pod uživatelem \"{0}\". Byla ukončena, aby bylo možné spustit tuto novou instanci.",
   "PaypalDialogPart1": "Zpráva od vývojáře Fan Control",
   "PaypalDialogPart2": "Ahoj! Tady Rémi.",

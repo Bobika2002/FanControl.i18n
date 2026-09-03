@@ -6,7 +6,7 @@
   "InstallPlugin": "Instalovat plugin...",
   "LoadedPlugins": "Načtené pluginy",
   "Nicknames": "Přezdívky",
-  "NoPluginSensorsHelpText": "Nebyly detekovány žádné senzory z pluginu. Ujistěte se, že je plugin povolen v okně zdrojů senzorů a obnovení bylo provdeno.",
+  "NoPluginSensorsHelpText": "Nebyly detekovány žádné senzory z pluginu. Ujistěte se, že je plugin povolen v okně zdrojů senzorů a obnovení bylo provedeno.",
   "NoPlugins": "Žádné pluginy nejsou načteny",
   "NotifyForUpdate": "Upozornit na aktualizaci při spuštění",
   "OriginalName": "Původní název: {0}",
